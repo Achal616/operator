@@ -1,0 +1,16 @@
+
+let univercity = class{
+
+    constructor()
+     {
+        this.Name="achal",
+        this.city="nagpur",
+        this.branch="IT",
+        this.mark="70%"
+    
+     }
+        
+}
+let college = new univercity()
+console.log(college.branch)
+
